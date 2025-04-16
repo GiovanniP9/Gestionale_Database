@@ -12,7 +12,7 @@ Un semplice tool da riga di comando per connettersi a un server MySQL, gestire d
 - Inserimento e aggiornamento dati
 
 ## Struttura del Progetto
-
+```
 mysql-database-manager/
 │
 ├── src/
@@ -22,6 +22,7 @@ mysql-database-manager/
 │
 ├── README.md
 └── requirements.txt
+```
 
 ## Documentazione
 - Giovanni si è occupato della scrittura dei methodi della classe `MySQLDatabaseManager` e della corretta implementazione dei metodi della classe nel menù di esecuzione, oltre alla fase di visualizzazione del Database tramite WorkBench;
