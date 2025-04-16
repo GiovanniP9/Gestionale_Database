@@ -3,7 +3,7 @@ from concrete_database_manager import MySQLDatabaseManager
 
 def main():
     # Crea l'istanza del gestore MySQL
-    manager = MySQLDatabaseManager(password="Allitterazione0098") # la password è personale 
+    manager = MySQLDatabaseManager(password="") # la password è personale 
     manager.connect()
 
     # Connessione o creazione database
