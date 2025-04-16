@@ -27,7 +27,7 @@ mysql-database-manager/
 ## Documentazione
 - Giovanni si è occupato della scrittura dei methodi della classe `MySQLDatabaseManager` e della corretta implementazione dei metodi della classe nel menù di esecuzione, oltre alla fase di visualizzazione del Database tramite WorkBench;
 - Nunzio si è occupato della separazione della logica funzionale per rendere il progetto modulare, leggibile, e manutenibile, e della scrittura dell'interfaccia astratta `DatabaseManagerBase` per la classe di Giovanni.
-- 
+  
 ## Requisiti
 
 - Python 3.8+
